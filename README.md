@@ -1,6 +1,5 @@
 # 3Dprint
 
-<div align=center>
 <img width="350" height="500" src="https://github.com/MakerLab308/3Dprint/blob/master/4_%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6/3D_Rick.jpg"/>
 
 Figure1 Rick
@@ -8,7 +7,6 @@ Figure1 Rick
 <img width="480" height="350" src="https://github.com/MakerLab308/3Dprint/blob/master/4_%E8%B5%84%E6%BA%90%E6%96%87%E4%BB%B6/3D_DogAndMan.JPG"/>
 
 Figure2 Dog & Man
-</div>
 
 # 如何使用本仓库?
 本仓库仅作为3D打印入门学习使用
